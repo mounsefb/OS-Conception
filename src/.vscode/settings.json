@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "affichage.C": "cpp",
+        "cpu.h": "c",
+        "string.h": "c",
+        "processus.h": "c",
+        "affichage.h": "c",
+        "timer.h": "c"
+    }
+}
